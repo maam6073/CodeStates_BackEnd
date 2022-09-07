@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/Chapter1.iml" filepath="$PROJECT_DIR$/Chapter1/Chapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeStates_Backend.iml" filepath="$PROJECT_DIR$/CodeStates_Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/Optional_Restaurant/Optional_Restaurant.iml" filepath="$PROJECT_DIR$/Chapter1/Optional_Restaurant/Optional_Restaurant.iml" />
     </modules>
   </component>
 </project>
